@@ -1,0 +1,9 @@
+C:\git\FSharpWindowsPhoneAppAndHost\FSharpWP7VSIX\bin\Release\ProjectTemplates\WP7\FSharpWP7App.zip
+C:\git\FSharpWindowsPhoneAppAndHost\FSharpWP7VSIX\bin\Release\FSharpWP7AppScreenShot.png
+C:\git\FSharpWindowsPhoneAppAndHost\FSharpWP7VSIX\bin\Release\MicrosoftPublicLicense.txt
+C:\git\FSharpWindowsPhoneAppAndHost\FSharpWP7VSIX\bin\Release\FSharpWP7VSIX.vsix
+C:\git\FSharpWindowsPhoneAppAndHost\FSharpWP7VSIX\bin\Release\extension.vsixmanifest
+C:\git\FSharpWindowsPhoneAppAndHost\FSharpWP7VSIX\obj\Release\ResolveAssemblyReference.cache
+C:\git\FSharpWindowsPhoneAppAndHost\FSharpWP7VSIX\obj\Release\FSharpWP7VSIX.dll
+C:\git\FSharpWindowsPhoneAppAndHost\FSharpWP7VSIX\obj\Release\FSharpWP7VSIX.pdb
+C:\git\FSharpWindowsPhoneAppAndHost\FSharpWP7VSIX\obj\Release\extension.vsixmanifest

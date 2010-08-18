@@ -7,3 +7,12 @@ C:\Users\dmohl\Downloads\FSharpWindowsPhoneAppAndHost\FSharpWindowsPhoneAppAndHo
 C:\Users\dmohl\Downloads\FSharpWindowsPhoneAppAndHost\FSharpWindowsPhoneAppAndHost\FSharpWP7VSIX\obj\Debug\extension.vsixmanifest
 C:\Users\dmohl\Downloads\FSharpWindowsPhoneAppAndHost\FSharpWindowsPhoneAppAndHost\FSharpWP7VSIX\bin\Debug\ProjectTemplates\WP7\FSharpWP7App.zip
 C:\Users\dmohl\Downloads\FSharpWindowsPhoneAppAndHost\FSharpWindowsPhoneAppAndHost\FSharpWP7VSIX\bin\Debug\FSharpWP7AppScreenShot.png
+C:\git\FSharpWindowsPhoneAppAndHost\FSharpWP7VSIX\bin\Debug\ProjectTemplates\WP7\FSharpWP7App.zip
+C:\git\FSharpWindowsPhoneAppAndHost\FSharpWP7VSIX\bin\Debug\FSharpWP7AppScreenShot.png
+C:\git\FSharpWindowsPhoneAppAndHost\FSharpWP7VSIX\bin\Debug\MicrosoftPublicLicense.txt
+C:\git\FSharpWindowsPhoneAppAndHost\FSharpWP7VSIX\bin\Debug\FSharpWP7VSIX.vsix
+C:\git\FSharpWindowsPhoneAppAndHost\FSharpWP7VSIX\bin\Debug\extension.vsixmanifest
+C:\git\FSharpWindowsPhoneAppAndHost\FSharpWP7VSIX\obj\Debug\ResolveAssemblyReference.cache
+C:\git\FSharpWindowsPhoneAppAndHost\FSharpWP7VSIX\obj\Debug\FSharpWP7VSIX.dll
+C:\git\FSharpWindowsPhoneAppAndHost\FSharpWP7VSIX\obj\Debug\FSharpWP7VSIX.pdb
+C:\git\FSharpWindowsPhoneAppAndHost\FSharpWP7VSIX\obj\Debug\extension.vsixmanifest

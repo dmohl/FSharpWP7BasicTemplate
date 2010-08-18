@@ -16,3 +16,12 @@ C:\Users\dmohl\Downloads\FSharpWindowsPhoneAppAndHost\FSharpWindowsPhoneAppAndHo
 C:\Users\dmohl\Downloads\FSharpWindowsPhoneAppAndHost\FSharpWindowsPhoneAppAndHost\WindowsPhoneApp\obj\Debug\WindowsPhoneApp.g.resources
 C:\Users\dmohl\Downloads\FSharpWindowsPhoneAppAndHost\FSharpWindowsPhoneAppAndHost\WindowsPhoneApp\obj\Debug\WindowsPhoneApp.dll
 C:\Users\dmohl\Downloads\FSharpWindowsPhoneAppAndHost\FSharpWindowsPhoneAppAndHost\WindowsPhoneApp\obj\Debug\WindowsPhoneApp.pdb
+C:\git\FSharpWindowsPhoneAppAndHost\WindowsPhoneApp\bin\Debug\WindowsPhoneApp.xml
+C:\git\FSharpWindowsPhoneAppAndHost\WindowsPhoneApp\bin\Debug\WindowsPhoneApp.dll
+C:\git\FSharpWindowsPhoneAppAndHost\WindowsPhoneApp\bin\Debug\WindowsPhoneApp.pdb
+C:\git\FSharpWindowsPhoneAppAndHost\WindowsPhoneApp\bin\Debug\FSharp.Core.dll
+C:\git\FSharpWindowsPhoneAppAndHost\WindowsPhoneApp\bin\Debug\FSharp.Core.xml
+C:\git\FSharpWindowsPhoneAppAndHost\WindowsPhoneApp\obj\Debug\ResolveAssemblyReference.cache
+C:\git\FSharpWindowsPhoneAppAndHost\WindowsPhoneApp\obj\Debug\WindowsPhoneApp.g.resources
+C:\git\FSharpWindowsPhoneAppAndHost\WindowsPhoneApp\obj\Debug\WindowsPhoneApp.dll
+C:\git\FSharpWindowsPhoneAppAndHost\WindowsPhoneApp\obj\Debug\WindowsPhoneApp.pdb
