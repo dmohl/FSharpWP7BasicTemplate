@@ -54,8 +54,12 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
     <Compile Include="AppLogic.fs" />
-    <Content Include="Dependencies\FSharp.Core.dll" />
-    <Content Include="Dependencies\FSharp.Core.xml" />
+    <None Include="Dependencies\FSharp.Core.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Dependencies\FSharp.Core.optdata" />
+    <None Include="Dependencies\FSharp.Core.sigdata" />
+    <None Include="Dependencies\FSharp.Core.xml" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="FSharp.Core">

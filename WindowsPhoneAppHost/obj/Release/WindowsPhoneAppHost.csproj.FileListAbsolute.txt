@@ -1,3 +1,4 @@
+C:\git\FSharpWindowsPhoneAppAndHost\WindowsPhoneAppHost\Bin\Release\Dependencies\FSharp.Core.dll
 C:\git\FSharpWindowsPhoneAppAndHost\WindowsPhoneAppHost\Bin\Release\ApplicationIcon.png
 C:\git\FSharpWindowsPhoneAppAndHost\WindowsPhoneAppHost\Bin\Release\Background.png
 C:\git\FSharpWindowsPhoneAppAndHost\WindowsPhoneAppHost\Bin\Release\Images\appbar.favs.rest.png

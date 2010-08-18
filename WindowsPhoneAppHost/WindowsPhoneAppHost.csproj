@@ -92,8 +92,6 @@
     <Content Include="SplashScreenImage.jpg">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="test\FSharp.Core.dll" />
-    <Content Include="test\FSharp.Core.xml" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\WindowsPhoneApp\WindowsPhoneApp.fsproj">

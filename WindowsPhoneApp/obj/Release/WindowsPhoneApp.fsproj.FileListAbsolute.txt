@@ -1,3 +1,4 @@
+C:\git\FSharpWindowsPhoneAppAndHost\WindowsPhoneApp\bin\Release\Dependencies\FSharp.Core.dll
 C:\git\FSharpWindowsPhoneAppAndHost\WindowsPhoneApp\bin\Release\WindowsPhoneApp.xml
 C:\git\FSharpWindowsPhoneAppAndHost\WindowsPhoneApp\bin\Release\WindowsPhoneApp.dll
 C:\git\FSharpWindowsPhoneAppAndHost\WindowsPhoneApp\bin\Release\WindowsPhoneApp.pdb
