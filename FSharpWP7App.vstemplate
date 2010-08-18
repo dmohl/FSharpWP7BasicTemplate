@@ -9,11 +9,11 @@
     </TemplateData>
     <TemplateContent>
         <ProjectCollection>
-            <ProjectTemplateLink ProjectName="WindowsPhoneAppHost">
-                WindowsPhoneAppHost\MyTemplate.vstemplate
+            <ProjectTemplateLink ProjectName="AppHost">
+                AppHost\MyTemplate.vstemplate
             </ProjectTemplateLink>
-            <ProjectTemplateLink ProjectName="WindowsPhoneApp">
-                WindowsPhoneApp\MyTemplate.vstemplate
+            <ProjectTemplateLink ProjectName="App">
+                App\MyTemplate.vstemplate
             </ProjectTemplateLink>
         </ProjectCollection>
     </TemplateContent>

@@ -1,0 +1,10 @@
+C:\git\FSharpWindowsPhoneAppAndHost\App\bin\Release\Dependencies\FSharp.Core.dll
+C:\git\FSharpWindowsPhoneAppAndHost\App\bin\Release\WindowsPhoneApp.xml
+C:\git\FSharpWindowsPhoneAppAndHost\App\bin\Release\WindowsPhoneApp.dll
+C:\git\FSharpWindowsPhoneAppAndHost\App\bin\Release\WindowsPhoneApp.pdb
+C:\git\FSharpWindowsPhoneAppAndHost\App\bin\Release\FSharp.Core.dll
+C:\git\FSharpWindowsPhoneAppAndHost\App\bin\Release\FSharp.Core.xml
+C:\git\FSharpWindowsPhoneAppAndHost\App\obj\Release\ResolveAssemblyReference.cache
+C:\git\FSharpWindowsPhoneAppAndHost\App\obj\Release\WindowsPhoneApp.g.resources
+C:\git\FSharpWindowsPhoneAppAndHost\App\obj\Release\WindowsPhoneApp.dll
+C:\git\FSharpWindowsPhoneAppAndHost\App\obj\Release\WindowsPhoneApp.pdb
