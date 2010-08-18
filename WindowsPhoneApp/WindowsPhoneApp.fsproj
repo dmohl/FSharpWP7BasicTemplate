@@ -54,10 +54,12 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
     <Compile Include="AppLogic.fs" />
+    <Content Include="Dependencies\FSharp.Core.dll" />
+    <Content Include="Dependencies\FSharp.Core.xml" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="FSharp.Core">
-      <HintPath>Dependencies\WindowsPhone\Silverlight\4.0\FSharp.Core.dll </HintPath>
+      <HintPath>Dependencies\FSharp.Core.dll </HintPath>
     </Reference>
     <Reference Include="mscorlib" />
     <Reference Include="Microsoft.Phone" />

@@ -2,3 +2,7 @@ C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mo
 C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Windows Phone (Silverlight)\1.0\ProjectTemplates\WP7\\FSharpWP7App.zip
 C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Windows Phone (Silverlight)\1.0\\FSharpWP7AppScreenShot.png
 C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Windows Phone (Silverlight)\1.0\\MicrosoftPublicLicense.txt
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Windows Phone App(Silverlight)\1.0\\extension.vsixmanifest
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Windows Phone App(Silverlight)\1.0\ProjectTemplates\WP7\\FSharpWP7App.zip
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Windows Phone App(Silverlight)\1.0\\FSharpWP7AppScreenShot.png
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Windows Phone App(Silverlight)\1.0\\MicrosoftPublicLicense.txt
