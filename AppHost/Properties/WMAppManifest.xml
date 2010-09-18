@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Deployment xmlns="http://schemas.microsoft.com/windowsphone/2009/deployment" AppPlatformVersion="7.0">
-  <App xmlns="" ProductID="{0056bd0c-d7a2-4f93-9f1f-8ee5bbef8c76}" Title="WindowsPhonePanoramaApplication1" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal"  
+  <App xmlns="" ProductID="{0056bd0c-d7a2-4f93-9f1f-8ee5bbef8c76}" Title="F# WP7 App" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal"  
        Author="WindowsPhoneApp author" Description="Sample description" Publisher="WindowsPhoneApp">
     <IconPath IsRelative="true" IsResource="false">ApplicationIcon.png</IconPath>
     <Capabilities>
