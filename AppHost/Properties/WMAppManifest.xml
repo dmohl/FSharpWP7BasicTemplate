@@ -1,17 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Deployment xmlns="http://schemas.microsoft.com/windowsphone/2009/deployment" AppPlatformVersion="7.0">
-  <App xmlns="" ProductID="{a75c63b5-6dec-4644-b02c-327a66c9dfd5}" Title="F# WP7 App" RuntimeType="SilverLight" Version="1.0.0.0" Genre="NormalApp" Author="WindowsPhoneApp author" Description="Sample description" Publisher="WindowsPhoneApp">
+  <App xmlns="" ProductID="{0056bd0c-d7a2-4f93-9f1f-8ee5bbef8c76}" Title="WindowsPhonePanoramaApplication1" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal"  
+       Author="WindowsPhoneApp author" Description="Sample description" Publisher="WindowsPhoneApp">
     <IconPath IsRelative="true" IsResource="false">ApplicationIcon.png</IconPath>
     <Capabilities>
-      <Capability Name="ID_CAP_NETWORKING" />
-      <Capability Name="ID_CAP_LOCATION" />
-      <Capability Name="ID_CAP_SENSORS" />
-      <Capability Name="ID_CAP_MICROPHONE" />
-      <Capability Name="ID_CAP_MEDIALIB" />
-      <Capability Name="ID_CAP_GAMERSERVICES" />
-      <Capability Name="ID_CAP_PHONEDIALER" />
-      <Capability Name="ID_CAP_PUSH_NOTIFICATION" />
-      <Capability Name="ID_CAP_WEBBROWSERCOMPONENT" />
+      <Capability Name="ID_CAP_GAMERSERVICES"/>
+      <Capability Name="ID_CAP_IDENTITY_DEVICE"/>
+      <Capability Name="ID_CAP_IDENTITY_USER"/>
+      <Capability Name="ID_CAP_LOCATION"/>
+      <Capability Name="ID_CAP_MEDIALIB"/>
+      <Capability Name="ID_CAP_MICROPHONE"/>
+      <Capability Name="ID_CAP_NETWORKING"/>
+      <Capability Name="ID_CAP_PHONEDIALER"/>
+      <Capability Name="ID_CAP_PUSH_NOTIFICATION"/>
+      <Capability Name="ID_CAP_SENSORS"/>
+      <Capability Name="ID_CAP_WEBBROWSERCOMPONENT"/>
     </Capabilities>
     <Tasks>
       <DefaultTask Name="_default" />

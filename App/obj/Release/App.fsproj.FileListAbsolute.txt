@@ -8,3 +8,13 @@ C:\git\FSharpWindowsPhoneAppAndHost\App\obj\Release\ResolveAssemblyReference.cac
 C:\git\FSharpWindowsPhoneAppAndHost\App\obj\Release\WindowsPhoneApp.g.resources
 C:\git\FSharpWindowsPhoneAppAndHost\App\obj\Release\WindowsPhoneApp.dll
 C:\git\FSharpWindowsPhoneAppAndHost\App\obj\Release\WindowsPhoneApp.pdb
+C:\git\FSharpWP7BasicTemplate\App\bin\Release\Dependencies\FSharp.Core.dll
+C:\git\FSharpWP7BasicTemplate\App\bin\Release\WindowsPhoneApp.xml
+C:\git\FSharpWP7BasicTemplate\App\bin\Release\WindowsPhoneApp.dll
+C:\git\FSharpWP7BasicTemplate\App\bin\Release\WindowsPhoneApp.pdb
+C:\git\FSharpWP7BasicTemplate\App\bin\Release\FSharp.Core.dll
+C:\git\FSharpWP7BasicTemplate\App\bin\Release\FSharp.Core.xml
+C:\git\FSharpWP7BasicTemplate\App\obj\Release\ResolveAssemblyReference.cache
+C:\git\FSharpWP7BasicTemplate\App\obj\Release\WindowsPhoneApp.g.resources
+C:\git\FSharpWP7BasicTemplate\App\obj\Release\WindowsPhoneApp.dll
+C:\git\FSharpWP7BasicTemplate\App\obj\Release\WindowsPhoneApp.pdb
