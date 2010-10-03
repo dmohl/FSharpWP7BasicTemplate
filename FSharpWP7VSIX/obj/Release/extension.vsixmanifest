@@ -3,12 +3,13 @@
   <Identifier Id="FSharpWP7VSIX..2f65fd30-9565-4176-806e-b2d2f2e71276">
     <Name>F# and C# Win Phone App (Silverlight)</Name>
     <Author>Daniel Mohl</Author>
-    <Version>1.1</Version>
+    <Version>1.2</Version>
     <Description xml:space="preserve">Note:Install the WP7 developer tools (http://developer.windowsphone.com/) before use.
 </Description>
     <Locale>1033</Locale>
     <MoreInfoUrl>http://blogs.msdn.com/b/dsyme/archive/2010/08/17/demos-for-tonight-s-quot-community-for-f-quot-online-live-meeting.aspx</MoreInfoUrl>
     <License>MicrosoftPublicLicense.txt</License>
+    <Icon>FSharpWP7AppScreenShot.png</Icon>
     <PreviewImage>FSharpWP7AppScreenShot.png</PreviewImage>
     <SupportedProducts>
       <VisualStudio Version="10.0">

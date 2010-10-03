@@ -33,7 +33,7 @@ module private Utilities =
             | null -> invalidOp (sprintf "dynamic lookup of Xaml component %s failed" s)
             | :? 'T as x -> x
             | _ -> invalidOp (sprintf "dynamic lookup of Xaml component %s failed because the component found was of type %A instead of type %A"  s (s.GetType()) typeof<'T>)
-        | _ -> invalidOp (sprintf "dynamic lookup of Xaml component %s failed because the source object was of type %A. It must be a control of a resource dictionary" s (source.GetType()))
+        | _ -> invalidOp (sprintf "dynamic lookup of Xaml component %s failed because the source object was of type %A. It must be a control or a resource dictionary" s (source.GetType()))
 
 type Class1() = 
     member x.Property = "property"
