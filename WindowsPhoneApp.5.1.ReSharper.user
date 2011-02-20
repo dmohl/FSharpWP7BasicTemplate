@@ -1,0 +1,41 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="44969257-E1AD-4254-B1A6-2CC29BD6149B/f:TemplateWizard.cs" caret="547" fromTop="5" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="44969257-E1AD-4254-B1A6-2CC29BD6149B/f:TemplateWizard.cs" caret="728" fromTop="7" />
+      <File id="44969257-E1AD-4254-B1A6-2CC29BD6149B/f:TemplateWizard.cs" caret="1107" fromTop="7" />
+      <File id="44969257-E1AD-4254-B1A6-2CC29BD6149B/f:TemplateWizard.cs" caret="547" fromTop="5" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.3\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="currentProject" priority="0" />
+      <Item value="project" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EnvDTE.Project">
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Contains`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

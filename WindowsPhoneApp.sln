@@ -7,6 +7,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "App", "App\App.fsproj", "{4
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSharpWP7VSIX", "FSharpWP7VSIX\FSharpWP7VSIX.csproj", "{304E4593-6C8C-4E83-A524-A569017AE831}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateWizard", "TemplateWizard\TemplateWizard.csproj", "{44969257-E1AD-4254-B1A6-2CC29BD6149B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{304E4593-6C8C-4E83-A524-A569017AE831}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{304E4593-6C8C-4E83-A524-A569017AE831}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{304E4593-6C8C-4E83-A524-A569017AE831}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44969257-E1AD-4254-B1A6-2CC29BD6149B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44969257-E1AD-4254-B1A6-2CC29BD6149B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44969257-E1AD-4254-B1A6-2CC29BD6149B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44969257-E1AD-4254-B1A6-2CC29BD6149B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

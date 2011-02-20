@@ -16,3 +16,5 @@ C:\git\FSharpWP7BasicTemplate\FSharpWP7VSIX\obj\Release\ResolveAssemblyReference
 C:\git\FSharpWP7BasicTemplate\FSharpWP7VSIX\obj\Release\FSharpWP7VSIX.dll
 C:\git\FSharpWP7BasicTemplate\FSharpWP7VSIX\obj\Release\FSharpWP7VSIX.pdb
 C:\git\FSharpWP7BasicTemplate\FSharpWP7VSIX\obj\Release\extension.vsixmanifest
+C:\git\FSharpWP7BasicTemplate\FSharpWP7VSIX\bin\Release\TemplateWizard.dll
+C:\git\FSharpWP7BasicTemplate\FSharpWP7VSIX\bin\Release\TemplateWizard.pdb

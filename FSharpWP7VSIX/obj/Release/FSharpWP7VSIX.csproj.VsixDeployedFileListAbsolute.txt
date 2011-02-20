@@ -22,3 +22,13 @@ C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Dan
 C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Win Phone App (Silverlight)\1.2\ProjectTemplates\WP7\\FSharpWP7App.zip
 C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Win Phone App (Silverlight)\1.2\\FSharpWP7AppScreenShot.png
 C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Win Phone App (Silverlight)\1.2\\MicrosoftPublicLicense.txt
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Win Phone App (Silverlight)\1.2\\extension.vsixmanifest
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Win Phone App (Silverlight)\1.2\ProjectTemplates\WP7\\FSharpWP7App.zip
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Win Phone App (Silverlight)\1.2\\FSharpWP7AppScreenShot.png
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Win Phone App (Silverlight)\1.2\\MicrosoftPublicLicense.txt
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Win Phone App (Silverlight)\1.2.0.1\\extension.vsixmanifest
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Win Phone App (Silverlight)\1.2.0.1\ProjectTemplates\WP7\\FSharpWP7App.zip
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Win Phone App (Silverlight)\1.2.0.1\\FSharpWP7AppScreenShot.png
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Win Phone App (Silverlight)\1.2.0.1\\MicrosoftPublicLicense.txt
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Win Phone App (Silverlight)\1.2.0.1\\TemplateWizard.dll
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Win Phone App (Silverlight)\1.2.0.1\\TemplateWizard.pdb
