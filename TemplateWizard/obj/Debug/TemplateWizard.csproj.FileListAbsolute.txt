@@ -1,0 +1,5 @@
+C:\git\FSharpWP7BasicTemplate\TemplateWizard\obj\Debug\ResolveAssemblyReference.cache
+C:\git\FSharpWP7BasicTemplate\TemplateWizard\bin\Debug\TemplateWizard.dll
+C:\git\FSharpWP7BasicTemplate\TemplateWizard\bin\Debug\TemplateWizard.pdb
+C:\git\FSharpWP7BasicTemplate\TemplateWizard\obj\Debug\TemplateWizard.dll
+C:\git\FSharpWP7BasicTemplate\TemplateWizard\obj\Debug\TemplateWizard.pdb

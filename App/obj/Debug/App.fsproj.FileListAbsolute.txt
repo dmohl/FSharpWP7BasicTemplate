@@ -1,0 +1,10 @@
+C:\git\FSharpWP7BasicTemplate\App\bin\Debug\Dependencies\FSharp.Core.dll
+C:\git\FSharpWP7BasicTemplate\App\bin\Debug\WindowsPhoneApp.xml
+C:\git\FSharpWP7BasicTemplate\App\bin\Debug\WindowsPhoneApp.dll
+C:\git\FSharpWP7BasicTemplate\App\bin\Debug\WindowsPhoneApp.pdb
+C:\git\FSharpWP7BasicTemplate\App\bin\Debug\FSharp.Core.dll
+C:\git\FSharpWP7BasicTemplate\App\bin\Debug\FSharp.Core.xml
+C:\git\FSharpWP7BasicTemplate\App\obj\Debug\ResolveAssemblyReference.cache
+C:\git\FSharpWP7BasicTemplate\App\obj\Debug\WindowsPhoneApp.g.resources
+C:\git\FSharpWP7BasicTemplate\App\obj\Debug\WindowsPhoneApp.dll
+C:\git\FSharpWP7BasicTemplate\App\obj\Debug\WindowsPhoneApp.pdb

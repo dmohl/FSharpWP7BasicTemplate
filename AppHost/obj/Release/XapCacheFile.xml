@@ -1,13 +1,13 @@
-﻿<xapCache source="C:\git\FSharpWP7BasicTemplate\AppHost\Bin\Release\WindowsPhoneAppHost.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="2/20/2011 8:36:18 AM">
-  <file source="C:\git\FSharpWP7BasicTemplate\AppHost\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2/20/2011 8:13:56 AM" />
-  <file source="C:\git\FSharpWP7BasicTemplate\AppHost\obj\Release\WindowsPhoneAppHost.dll" archivePath="WindowsPhoneAppHost.dll" lastWriteTime="2/20/2011 8:36:16 AM" />
-  <file source="C:\git\FSharpWP7BasicTemplate\App\bin\Release\WindowsPhoneApp.dll" archivePath="WindowsPhoneApp.dll" lastWriteTime="2/20/2011 8:36:11 AM" />
-  <file source="C:\git\FSharpWP7BasicTemplate\App\bin\Release\FSharp.Core.dll" archivePath="FSharp.Core.dll" lastWriteTime="2/20/2011 8:13:55 AM" />
-  <file source="C:\git\FSharpWP7BasicTemplate\AppHost\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="2/20/2011 8:13:56 AM" />
-  <file source="C:\git\FSharpWP7BasicTemplate\AppHost\Background.png" archivePath="Background.png" lastWriteTime="2/20/2011 8:13:56 AM" />
-  <file source="C:\git\FSharpWP7BasicTemplate\AppHost\Images\appbar.favs.rest.png" archivePath="Images\appbar.favs.rest.png" lastWriteTime="2/20/2011 8:13:56 AM" />
-  <file source="C:\git\FSharpWP7BasicTemplate\AppHost\Images\appbar.feature.settings.rest.png" archivePath="Images\appbar.feature.settings.rest.png" lastWriteTime="2/20/2011 8:13:56 AM" />
-  <file source="C:\git\FSharpWP7BasicTemplate\AppHost\readme.txt" archivePath="readme.txt" lastWriteTime="2/20/2011 8:13:56 AM" />
-  <file source="C:\git\FSharpWP7BasicTemplate\AppHost\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="2/20/2011 8:13:56 AM" />
-  <file source="C:\git\FSharpWP7BasicTemplate\AppHost\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2/20/2011 8:36:17 AM" />
+﻿<xapCache source="C:\git\FSharpWP7BasicTemplate\AppHost\Bin\Release\WindowsPhoneAppHost.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="2/20/2011 10:30:25 AM">
+  <file source="C:\git\FSharpWP7BasicTemplate\AppHost\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2/20/2011 8:58:40 AM" />
+  <file source="C:\git\FSharpWP7BasicTemplate\AppHost\obj\Release\WindowsPhoneAppHost.dll" archivePath="WindowsPhoneAppHost.dll" lastWriteTime="2/20/2011 10:30:25 AM" />
+  <file source="C:\git\FSharpWP7BasicTemplate\App\bin\Release\WindowsPhoneApp.dll" archivePath="WindowsPhoneApp.dll" lastWriteTime="2/20/2011 9:15:38 AM" />
+  <file source="C:\git\FSharpWP7BasicTemplate\App\bin\Release\FSharp.Core.dll" archivePath="FSharp.Core.dll" lastWriteTime="2/20/2011 8:58:40 AM" />
+  <file source="C:\git\FSharpWP7BasicTemplate\AppHost\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="2/20/2011 8:58:40 AM" />
+  <file source="C:\git\FSharpWP7BasicTemplate\AppHost\Background.png" archivePath="Background.png" lastWriteTime="2/20/2011 8:58:40 AM" />
+  <file source="C:\git\FSharpWP7BasicTemplate\AppHost\Images\appbar.favs.rest.png" archivePath="Images\appbar.favs.rest.png" lastWriteTime="2/20/2011 8:58:40 AM" />
+  <file source="C:\git\FSharpWP7BasicTemplate\AppHost\Images\appbar.feature.settings.rest.png" archivePath="Images\appbar.feature.settings.rest.png" lastWriteTime="2/20/2011 8:58:40 AM" />
+  <file source="C:\git\FSharpWP7BasicTemplate\AppHost\readme.txt" archivePath="readme.txt" lastWriteTime="2/20/2011 8:58:40 AM" />
+  <file source="C:\git\FSharpWP7BasicTemplate\AppHost\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="2/20/2011 8:58:40 AM" />
+  <file source="C:\git\FSharpWP7BasicTemplate\AppHost\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2/20/2011 9:15:41 AM" />
 </xapCache>
