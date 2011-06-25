@@ -10,11 +10,12 @@ C:\git\FSharpWindowsPhoneAppAndHost\FSharpWP7VSIX\obj\Release\extension.vsixmani
 C:\git\FSharpWP7BasicTemplate\FSharpWP7VSIX\bin\Release\ProjectTemplates\WP7\FSharpWP7App.zip
 C:\git\FSharpWP7BasicTemplate\FSharpWP7VSIX\bin\Release\FSharpWP7AppScreenShot.png
 C:\git\FSharpWP7BasicTemplate\FSharpWP7VSIX\bin\Release\MicrosoftPublicLicense.txt
-C:\git\FSharpWP7BasicTemplate\FSharpWP7VSIX\bin\Release\FSharpWP7VSIX.vsix
 C:\git\FSharpWP7BasicTemplate\FSharpWP7VSIX\bin\Release\extension.vsixmanifest
 C:\git\FSharpWP7BasicTemplate\FSharpWP7VSIX\obj\Release\ResolveAssemblyReference.cache
-C:\git\FSharpWP7BasicTemplate\FSharpWP7VSIX\obj\Release\FSharpWP7VSIX.dll
-C:\git\FSharpWP7BasicTemplate\FSharpWP7VSIX\obj\Release\FSharpWP7VSIX.pdb
 C:\git\FSharpWP7BasicTemplate\FSharpWP7VSIX\obj\Release\extension.vsixmanifest
 C:\git\FSharpWP7BasicTemplate\FSharpWP7VSIX\bin\Release\TemplateWizard.dll
 C:\git\FSharpWP7BasicTemplate\FSharpWP7VSIX\bin\Release\TemplateWizard.pdb
+C:\git\FSharpWP7BasicTemplate\FSharpWP7VSIX\bin\Release\FSharpWP7.vsix
+C:\git\FSharpWP7BasicTemplate\FSharpWP7VSIX\obj\Release\FSharpWP7.dll
+C:\git\FSharpWP7BasicTemplate\FSharpWP7VSIX\obj\Release\FSharpWP7.pdb
+C:\git\FSharpWP7BasicTemplate\FSharpWP7VSIX\bin\Release\ItemTemplates\Code\FsWP7CodeFile.zip
